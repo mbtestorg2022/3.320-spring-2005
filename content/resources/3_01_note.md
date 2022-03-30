@@ -6,6 +6,7 @@ description: 'This file is an annotated version of class notes "Density-Function
   II, and III, Bloch theorem, plane wave expansion, and band structures.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/a699e67dd632347b4ff7c18c49c0d916_3_01_note.pdf
 file_type: application/pdf
+parent_uid: 15296d54-84c9-9da1-6512-15965923b1cd
 resourcetype: Document
 title: 3_01_note.pdf
 uid: a699e67d-d632-347b-4ff7-c18c49c0d916

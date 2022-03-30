@@ -5,6 +5,7 @@ description: This file contains problems on adsorption of H on the (001) surface
   and FAQ for PS 5.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/241f5aa0f2ab0ba78345862ecb076c90_lab_assignment5.pdf
 file_type: application/pdf
+parent_uid: 4e3b32c3-b8ab-32af-dae9-bdfc1301e7fe
 resourcetype: Document
 title: lab_assignment5.pdf
 uid: 241f5aa0-f2ab-0ba7-8345-862ecb076c90

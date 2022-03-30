@@ -5,6 +5,7 @@ description: These files contains two problems on energy between allotropes of a
   calculations to study a ferroelectric.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/24f633ecdf80e6761183769da9bb7388_lab3_handout.pdf
 file_type: application/pdf
+parent_uid: 4e3b32c3-b8ab-32af-dae9-bdfc1301e7fe
 resourcetype: Document
 title: lab3_handout.pdf
 uid: 24f633ec-df80-e676-1183-769da9bb7388

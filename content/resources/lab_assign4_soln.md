@@ -6,6 +6,7 @@ description: This file contains four solutions for problems on common features o
   Kr.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9bc98c47972f5df6ed5c71ddad773fdf_lab_assign4_soln.pdf
 file_type: application/pdf
+parent_uid: 4e3b32c3-b8ab-32af-dae9-bdfc1301e7fe
 resourcetype: Document
 title: lab_assign4_soln.pdf
 uid: 9bc98c47-972f-5df6-ed5c-71ddad773fdf

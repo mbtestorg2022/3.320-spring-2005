@@ -6,6 +6,7 @@ description: 'This file is an annotated version of class notes "Advanced DFT: Su
   (vibrational free energy), dynamics in Al(110), and brillouin zone integrations.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/bfdb8e9d95f759aad5ed7f3529e01600_3_03a_note.pdf
 file_type: application/pdf
+parent_uid: 15296d54-84c9-9da1-6512-15965923b1cd
 resourcetype: Document
 title: 3_03a_note.pdf
 uid: bfdb8e9d-95f7-59aa-d5ed-7f3529e01600

@@ -7,6 +7,7 @@ description: This file is an annotated version of class notes "Free Energies and
   time scales.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/53fc28be0bc93216eef421b392a8526f_4_14_note.pdf
 file_type: application/pdf
+parent_uid: 15296d54-84c9-9da1-6512-15965923b1cd
 resourcetype: Document
 title: 4_14_note.pdf
 uid: 53fc28be-0bc9-3216-eef4-21b392a8526f
